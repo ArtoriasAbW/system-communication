@@ -1,6 +1,6 @@
-1.  Event storming с ошибками: [Event storming с ошибками](HW1_event_storming_errors.png)
-    Исправленный event storming: [Исправленный event storming](HW1_event_storming_fixed.png)
-    Ссылка на holst: https://app.holst.so/share/b/5a52d7c9-3fcf-40f9-af28-20e8acc89757
+1.  - Event storming с ошибками: [Event storming с ошибками](HW1_event_storming_errors.png)
+    - Исправленный event storming: [Исправленный event storming](HW1_event_storming_fixed.png)
+    - Ссылка на holst: https://app.holst.so/share/b/5a52d7c9-3fcf-40f9-af28-20e8acc89757
 2. 
 | Вид связи | Название команды или события из EventStorming | Название эндпоинта или название события в коде |
 |---|---|---|
