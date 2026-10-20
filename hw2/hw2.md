@@ -13,16 +13,16 @@
    - Ссылка на holst: https://app.holst.so/share/b/9c9beb6a-a8e9-4a27-a6f1-b932bd48b1b4
 
 4. Предположите, какой вид консистентности (согласованности) нужен для каждого из видов связей который реализован на текущий момент. 
-[COMM-020] — eventually consistency
-[COMM-021] — eventually consistency
-[COMM-030] — eventually consistency
-[COMM-031] — eventually consistency
-[COMM-040] — eventually consistency
-[COMM-050] — eventually consistency
-[COMM-060] — strong consistency
-[COMM-070] — eventually consistency
-[COMM-080] — eventually consistency
-[COMM-090] — eventually consistency
+- [COMM-020] — eventually consistency
+- [COMM-021] — eventually consistency
+- [COMM-030] — eventually consistency
+- [COMM-031] — eventually consistency
+- [COMM-040] — eventually consistency
+- [COMM-050] — eventually consistency
+- [COMM-060] — strong consistency
+- [COMM-070] — eventually consistency
+- [COMM-080] — eventually consistency
+- [COMM-090] — eventually consistency
 
 5. Я думаю можно все заменить на асихронные, а запрос рейтинга наоборот сделать синхронным, т.к. у нас есть проблема с актуальностью рейтинга.
 6. В целом у меня видение по сравнению с предыдущим уроком не сильно изменилось, там у меня уже почти все связи асихронные, а получение рейтинга синхронное. Более подробно посмотрю позже, сейчас не успеваю.
